@@ -4,6 +4,7 @@ This project intend to model mathematical behaviour of London travellers.
 The code is presented on a Jupyter Notebook (see dependencies) and should be run like a Jupyter Notebook.
 Download the file named "Modeling" and open it with means of Jupyter Notebook from Anaconda (see dependencies). 
 Then it is necessary to download all libraries necessary (see dependencies), and to change the import cell, by indicating the path to the Dataset ( see Data used) in the variable "data_file".
+A dict called "all_results" created in the first cell, the results obtained are available in this repository.
 
 
 
@@ -14,6 +15,7 @@ Then it is necessary to download all libraries necessary (see dependencies), and
 
 
 Dependencies : 
+
   jupyter                       1.0.0 
   
   notebook                      6.4.8
