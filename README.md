@@ -12,8 +12,10 @@ Download the file named "Modeling" and open it with means of Jupyter Notebook fr
 
 
 Dependencies : 
-  jupyter                       1.0.0
+  jupyter                       1.0.0 \\
   notebook                      6.4.8
+  
+  
   conda                         4.14.0
   pyhton                        3.9.12
   biogeme                       3.2.10
