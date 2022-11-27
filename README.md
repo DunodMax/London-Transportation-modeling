@@ -1,18 +1,14 @@
 # London-Transportation-modeling
-This project intend to model mathematical behaviour of London travellers.
 
+Description: 
+This project intend to mathematicaly model behaviour of London travellers, starting from very simple utility functions and iteratively improving models.
+Model are tested with con sistent test depending on models characteristics. Data used during this project comes from the biogeme website (TRANSP-OR laboratory at EPFL)(see Section Data Set used to access it and for references).
+
+Instalation:
 The code is presented on a Jupyter Notebook (see dependencies) and should be run like a Jupyter Notebook.
 Download the file named "Modeling" and open it with means of Jupyter Notebook from Anaconda (see dependencies). 
 Then it is necessary to download all libraries necessary (see dependencies), and to change the import cell, by indicating the path to the Dataset ( see Data used) in the variable "data_file".
 A dict called "all_results" created in the first cell, the results obtained are available in this repository.
-
-
-
-
-
-
-
-
 
 Dependencies : 
 
@@ -29,6 +25,12 @@ Dependencies :
   pandas                        1.4.2  
   
   numpy                         1.23.3
+  
+  Support:
+  For any questions or help, you can contact : maxime.dunod@epfl.ch
+  
+  Authors and acknowledgment : 
+  This project was possible thanks to the access given by the biogeme team, Michel Bierlaire's class team, and Tim Hillel.
   
 
 Dataset used : 
