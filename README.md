@@ -2,7 +2,8 @@
 
 Description: 
 This project intend to mathematicaly model behaviour of London travellers, starting from very simple utility functions and iteratively improving models.
-Model are tested with con sistent test depending on models characteristics. Data used during this project comes from the biogeme website (TRANSP-OR laboratory at EPFL)(see Section Data Set used to access it and for references).
+Model are tested with con sistent test depending on models characteristics. Data used during this project comes from the biogeme website (TRANSP-OR laboratory at EPFL)(see Section Data Set used to access it and for references). This project is not finished yet, and thus this repisotory contains only a 
+tentative code.
 
 Instalation:
 The code is presented on a Jupyter Notebook (see dependencies) and should be run like a Jupyter Notebook.
