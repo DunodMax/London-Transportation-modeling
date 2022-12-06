@@ -1,0 +1,61 @@
+,0,1
+0,Model0,"
+Results for model Model0
+Output file (HTML):			Model0.html
+Nbr of parameters:		5
+Sample size:			81086
+Excluded data:			0
+Init log likelihood:		-112409.1
+Final log likelihood:		-74975.98
+Likelihood ratio test (init):		74866.18
+Rho square (init):			0.333
+Rho bar square (init):			0.333
+Akaike Information Criterion:	149962
+Bayesian Information Criterion:	150008.5
+Final gradient norm:		0.02070272
+asc_cycle      : -3.8[0.0252 -151 0][0.0264 -144 0]
+asc_drive      : -1.22[0.018 -67.9 0][0.0197 -62.1 0]
+asc_pt         : -0.504[0.013 -38.6 0][0.0134 -37.6 0]
+beta_cost      : -0.171[0.00336 -50.9 0][0.00336 -51 0]
+beta_time      : -5.31[0.0442 -120 0][0.0495 -107 0]
+('asc_drive', 'asc_cycle'):	0.00024	0.528	117	0	0.0003	0.577	117	0
+('asc_pt', 'asc_cycle'):	0.000148	0.449	146	0	0.000179	0.507	145	0
+('asc_pt', 'asc_drive'):	0.000177	0.754	60.8	0	0.000213	0.807	60.5	0
+('beta_cost', 'asc_cycle'):	8.59e-06	0.101	144	0	1.19e-05	0.134	139	0
+('beta_cost', 'asc_drive'):	-7.05e-06	-0.116	56.2	0	-4.96e-06	-0.0749	52	0
+('beta_cost', 'asc_pt'):	-8.79e-06	-0.2	23.6	0	-7e-06	-0.156	23.2	0
+('beta_time', 'asc_cycle'):	0.000489	0.438	-37.6	0	0.000681	0.521	-35.8	0
+('beta_time', 'asc_drive'):	0.000611	0.767	-126	0	0.000798	0.818	-116	0
+('beta_time', 'asc_pt'):	0.00026	0.452	-120	0	0.000419	0.632	-114	0
+('beta_time', 'beta_cost'):	3.46e-06	0.0232	-116	0	1.57e-05	0.0947	-104	0
+"
+1,Model1,"
+Results for model Model0
+Output file (HTML):			Model0~00.html
+Nbr of parameters:		5
+Sample size:			81086
+Excluded data:			0
+Init log likelihood:		-74975.98
+Final log likelihood:		-74975.98
+Likelihood ratio test (init):		-0
+Rho square (init):			0
+Rho bar square (init):			-6.67e-05
+Akaike Information Criterion:	149962
+Bayesian Information Criterion:	150008.5
+Final gradient norm:		0.02070272
+asc_cycle      : -3.8[0.0252 -151 0][0.0264 -144 0]
+asc_drive      : -1.22[0.018 -67.9 0][0.0197 -62.1 0]
+asc_pt         : -0.504[0.013 -38.6 0][0.0134 -37.6 0]
+beta_cost      : -0.171[0.00336 -50.9 0][0.00336 -51 0]
+beta_time      : -5.31[0.0442 -120 0][0.0495 -107 0]
+('asc_drive', 'asc_cycle'):	0.00024	0.528	117	0	0.0003	0.577	117	0
+('asc_pt', 'asc_cycle'):	0.000148	0.449	146	0	0.000179	0.507	145	0
+('asc_pt', 'asc_drive'):	0.000177	0.754	60.8	0	0.000213	0.807	60.5	0
+('beta_cost', 'asc_cycle'):	8.59e-06	0.101	144	0	1.19e-05	0.134	139	0
+('beta_cost', 'asc_drive'):	-7.05e-06	-0.116	56.2	0	-4.96e-06	-0.0749	52	0
+('beta_cost', 'asc_pt'):	-8.79e-06	-0.2	23.6	0	-7e-06	-0.156	23.2	0
+('beta_time', 'asc_cycle'):	0.000489	0.438	-37.6	0	0.000681	0.521	-35.8	0
+('beta_time', 'asc_drive'):	0.000611	0.767	-126	0	0.000798	0.818	-116	0
+('beta_time', 'asc_pt'):	0.00026	0.452	-120	0	0.000419	0.632	-114	0
+('beta_time', 'beta_cost'):	3.46e-06	0.0232	-116	0	1.57e-05	0.0947	-104	0
+"
